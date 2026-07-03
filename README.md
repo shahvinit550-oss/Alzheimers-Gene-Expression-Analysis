@@ -53,9 +53,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5281
 
 ```
 Report.pdf
-Notebook.ipynb
-HIP_Alzheimer_Dataset.xlsx
-Top20_Genes.xlsx
+notebook/
 data/
 figures/
 ```
